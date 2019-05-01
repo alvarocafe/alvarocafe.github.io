@@ -1,6 +1,6 @@
 # layout: sidebar
-layout: stacked
-#layout: jekyll-theme-leap-day
+#layout: stacked
+layout: jekyll-theme-leap-day
 style: light
 
 plugins:
