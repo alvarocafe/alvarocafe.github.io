@@ -46,10 +46,10 @@ projects:
   # website: http://your_website_url
   # youtube: your_username
 
-# topics:
-#   - name: Wave problems
-#     web_url: https://github.com/alvarocafe/BEM_base
-#     image_url: images/4513PH03_16.jpg
-#   - name: Potential problems
-#     web_url: https://github.com/alvarocafe/PotConstTri3D
-#     image_url: images/4513PH03_16.jpg
+ topics:
+   - name: Wave problems
+     web_url: https://github.com/alvarocafe/BEM_base
+     image_url: images/4513PH03_16.jpg
+   - name: Potential problems
+     web_url: https://github.com/alvarocafe/PotConstTri3D
+     image_url: images/4513PH03_16.jpg
